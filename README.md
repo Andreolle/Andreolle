@@ -1,7 +1,9 @@
-<div style="text-align: center">
+<div align="center">
   <h1>👋 Hi, I'm Andreolle.</h1>
   <p>I'm a Frontend Developer.</p>
 </div>
+<br>
+<br>
 <div align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" />
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" />
