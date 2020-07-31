@@ -1,4 +1,4 @@
-<div>
+<div style="text-align: center">
   <p>👋 Hi, I'm Andreolle.</p>
   <p>I'm a Frontend Web Developer.</p>
 </div>
@@ -9,4 +9,7 @@
 </a>
 <a href="https://www.linkedin.com/in/andreolledantas/">
   <img align="left" alt="Andreolle's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="mailto:andreolle18@gmail.com">
+  <img align="left" alt="Andreolle's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
