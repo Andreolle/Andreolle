@@ -12,8 +12,9 @@
 </div>
 <br>
 <br>
-<br>
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</div>
 <br>
 <a href="https://twitter.com/_JackAndrews" target="blank">
   <img align="left" alt="Andreolle Dantas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
