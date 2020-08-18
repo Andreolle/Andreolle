@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 <br>
-<a href="https://twitter.com/_JackAndrews" target="blank">
+<a href="https://twitter.com/pirate_monke" target="blank">
   <img align="left" alt="Andreolle Dantas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/andreolledantas/" target="blank">
@@ -27,6 +27,6 @@
 <a href="mailto:andreolle18@gmail.com">
   <img align="left" alt="Andreolle's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://www.instagram.com/_adnts/ target="blank">
+<a href="https://www.instagram.com/_adnts/" target="blank">
   <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dephraiim" height="20" width="20" />
 </a>
